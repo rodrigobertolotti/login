@@ -1,0 +1,28 @@
+.autenticate{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+
+}
+.botonLoginReg{
+  width: 50%
+}
+.loginFormBox{
+  margin: 40px;
+  text-align: center;
+}
+
+.text{
+  font-family: Roboto;
+  font-weight: 800;
+}
+
+.btnLogin{
+  text-align: center;
+}
+
+.loginBox{
+  justify-content: center;
+}
